@@ -4,4 +4,4 @@
 The tool only works on linux machines using zsh ~ and is intended for personal use only.
 
 
-Created and Maintained by [https://github.com/nabeelv7](Nabeel Sadiq).
+Created and Maintained by [Nabeel Sadiq](https://github.com/nabeelv7).
